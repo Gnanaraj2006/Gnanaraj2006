@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://konstruweb.com/wp-content/uploads/2022/07/How-to-Make-a-Banner-on-Android_15993.gif)]
 <h1 align="center">Hi 👋, I'm Gnanaraj</h1>
 <h3 align="center">A passionate Frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.vkreate.in/storage/services_image/2019-10-02-17-55-54-5d94e4aa809b3-web-development.gif">
