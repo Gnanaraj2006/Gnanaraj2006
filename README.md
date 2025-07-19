@@ -18,7 +18,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/gnanaraj2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="gnanaraj2006" height="30" width="40" /></a>
-<a href="https://instagram.com/gnanaraj2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_krishna_the_conqueror" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/pets floor tamil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pets floor tamil" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/gnanaraj2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gnanaraj2006" height="30" width="40" /></a>
 </p>
