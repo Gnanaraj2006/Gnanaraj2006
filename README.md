@@ -9,7 +9,6 @@
 
 - 💬 Ask me about **HTML and CSS**
 
-- ⚡ Fun fact **The house where Bill Gates lives, was designed using a Macintosh computer.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
