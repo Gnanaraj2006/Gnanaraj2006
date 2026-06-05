@@ -1,5 +1,6 @@
 [![MasterHead](https://konstruweb.com/wp-content/uploads/2022/07/How-to-Make-a-Banner-on-Android_15993.gif)]
 <h1 align="center">Hi 👋, I'm Gnanaraj</h1>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="gnanaraj-s-b312aa314" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/gnanaraj-s-b312aa314?trk=profile-badge">Gnanaraj S</a></div>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.vkreate.in/storage/services_image/2019-10-02-17-55-54-5d94e4aa809b3-web-development.gif">
 
@@ -8,7 +9,7 @@
 - 🤝 I’m looking for help with **Internship**
 
 - 💬 Ask me about **HTML and CSS**
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="gnanaraj-s-b312aa314" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/gnanaraj-s-b312aa314?trk=profile-badge">Gnanaraj S</a></div>
+
               
 
 ### Blogs posts
